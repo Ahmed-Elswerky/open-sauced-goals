@@ -1,15 +1,15 @@
 [
   {
     "full_name": "lucidrains/imagen-pytorch",
-    "stargazers_count": 3803,
-    "open_issues_count": 20,
-    "forks_count": 242
+    "stargazers_count": 3831,
+    "open_issues_count": 17,
+    "forks_count": 247
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 712,
-    "open_issues_count": 17,
-    "forks_count": 309
+    "stargazers_count": 715,
+    "open_issues_count": 16,
+    "forks_count": 314
   },
   {
     "full_name": "WebDevSimplified/Noob-Vs-Pro-Code",
@@ -45,13 +45,13 @@
     "full_name": "udacity/reactnd-project-myreads-starter",
     "stargazers_count": 241,
     "open_issues_count": 27,
-    "forks_count": 3634
+    "forks_count": 3635
   },
   {
     "full_name": "udacity/reactnd-contacts-app",
     "stargazers_count": 109,
     "open_issues_count": 6,
-    "forks_count": 603
+    "forks_count": 602
   },
   {
     "full_name": "basarat/coding-interview",
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "andrey-ushakov/esc_pos_printer",
-    "stargazers_count": 230,
+    "stargazers_count": 231,
     "open_issues_count": 67,
     "forks_count": 194
   },
   {
     "full_name": "imAbdelhadi/nextjs-arabic-handbook",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "jondot/awesome-react-native",
-    "stargazers_count": 31611,
+    "stargazers_count": 31619,
     "open_issues_count": 56,
-    "forks_count": 3888
+    "forks_count": 3893
   },
   {
     "full_name": "MohamadKh75/react-native-jalali-datepicker",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "jlmakes/scrollreveal",
-    "stargazers_count": 20863,
+    "stargazers_count": 20875,
     "open_issues_count": 22,
-    "forks_count": 2190
+    "forks_count": 2192
   },
   {
     "full_name": "yoksel/url-encoder",
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "ghosh/uiGradients",
-    "stargazers_count": 5584,
-    "open_issues_count": 208,
-    "forks_count": 1292
+    "stargazers_count": 5589,
+    "open_issues_count": 209,
+    "forks_count": 1293
   }
 ]
