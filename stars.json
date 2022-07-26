@@ -1,19 +1,19 @@
 [
   {
     "full_name": "lucidrains/imagen-pytorch",
-    "stargazers_count": 4078,
-    "open_issues_count": 4,
-    "forks_count": 279
+    "stargazers_count": 4179,
+    "open_issues_count": 5,
+    "forks_count": 286
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 726,
+    "stargazers_count": 727,
     "open_issues_count": 16,
-    "forks_count": 320
+    "forks_count": 327
   },
   {
     "full_name": "WebDevSimplified/Noob-Vs-Pro-Code",
-    "stargazers_count": 136,
+    "stargazers_count": 138,
     "open_issues_count": 2,
     "forks_count": 58
   },
@@ -27,7 +27,7 @@
     "full_name": "udacity/reactnd-chirper-app",
     "stargazers_count": 47,
     "open_issues_count": 4,
-    "forks_count": 441
+    "forks_count": 442
   },
   {
     "full_name": "Ahmed-Elswerky/custom-tampermonkey-scripts",
@@ -45,7 +45,7 @@
     "full_name": "udacity/reactnd-project-myreads-starter",
     "stargazers_count": 241,
     "open_issues_count": 27,
-    "forks_count": 3636
+    "forks_count": 3639
   },
   {
     "full_name": "udacity/reactnd-contacts-app",
@@ -69,13 +69,13 @@
     "full_name": "andrey-ushakov/esc_pos_utils",
     "stargazers_count": 88,
     "open_issues_count": 49,
-    "forks_count": 132
+    "forks_count": 133
   },
   {
     "full_name": "andrey-ushakov/esc_pos_printer",
     "stargazers_count": 239,
     "open_issues_count": 68,
-    "forks_count": 196
+    "forks_count": 198
   },
   {
     "full_name": "imAbdelhadi/nextjs-arabic-handbook",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "jondot/awesome-react-native",
-    "stargazers_count": 31688,
+    "stargazers_count": 31705,
     "open_issues_count": 57,
-    "forks_count": 3897
+    "forks_count": 3899
   },
   {
     "full_name": "MohamadKh75/react-native-jalali-datepicker",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "jlmakes/scrollreveal",
-    "stargazers_count": 20905,
+    "stargazers_count": 20912,
     "open_issues_count": 22,
-    "forks_count": 2193
+    "forks_count": 2194
   },
   {
     "full_name": "yoksel/url-encoder",
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "ghosh/uiGradients",
-    "stargazers_count": 5600,
+    "stargazers_count": 5601,
     "open_issues_count": 209,
-    "forks_count": 1297
+    "forks_count": 1298
   }
 ]
