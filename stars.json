@@ -1,21 +1,21 @@
 [
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 29971,
-    "open_issues_count": 10,
-    "forks_count": 1466
+    "stargazers_count": 30057,
+    "open_issues_count": 8,
+    "forks_count": 1470
   },
   {
     "full_name": "lucidrains/imagen-pytorch",
-    "stargazers_count": 4716,
-    "open_issues_count": 10,
-    "forks_count": 354
+    "stargazers_count": 4774,
+    "open_issues_count": 13,
+    "forks_count": 359
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 749,
-    "open_issues_count": 16,
-    "forks_count": 350
+    "stargazers_count": 750,
+    "open_issues_count": 17,
+    "forks_count": 356
   },
   {
     "full_name": "WebDevSimplified/Noob-Vs-Pro-Code",
@@ -33,7 +33,7 @@
     "full_name": "udacity/reactnd-chirper-app",
     "stargazers_count": 47,
     "open_issues_count": 4,
-    "forks_count": 442
+    "forks_count": 441
   },
   {
     "full_name": "Ahmed-Elswerky/custom-tampermonkey-scripts",
@@ -44,14 +44,14 @@
   {
     "full_name": "transistorsoft/flutter_background_fetch",
     "stargazers_count": 489,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 133
   },
   {
     "full_name": "udacity/reactnd-project-myreads-starter",
     "stargazers_count": 241,
     "open_issues_count": 27,
-    "forks_count": 3637
+    "forks_count": 3633
   },
   {
     "full_name": "udacity/reactnd-contacts-app",
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "imAbdelhadi/nextjs-arabic-handbook",
-    "stargazers_count": 82,
+    "stargazers_count": 83,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "jondot/awesome-react-native",
-    "stargazers_count": 31785,
+    "stargazers_count": 31805,
     "open_issues_count": 59,
     "forks_count": 3906
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "jlmakes/scrollreveal",
-    "stargazers_count": 20951,
-    "open_issues_count": 21,
+    "stargazers_count": 20960,
+    "open_issues_count": 22,
     "forks_count": 2187
   },
   {
@@ -129,6 +129,6 @@
     "full_name": "ghosh/uiGradients",
     "stargazers_count": 5610,
     "open_issues_count": 212,
-    "forks_count": 1304
+    "forks_count": 1305
   }
 ]
