@@ -1,27 +1,27 @@
 [
   {
     "full_name": "berthubert/googerteller",
-    "stargazers_count": 1285,
+    "stargazers_count": 1569,
     "open_issues_count": 15,
-    "forks_count": 65
+    "forks_count": 74
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 30195,
-    "open_issues_count": 11,
-    "forks_count": 1480
+    "stargazers_count": 30252,
+    "open_issues_count": 9,
+    "forks_count": 1482
   },
   {
     "full_name": "lucidrains/imagen-pytorch",
-    "stargazers_count": 4878,
-    "open_issues_count": 10,
-    "forks_count": 369
+    "stargazers_count": 4915,
+    "open_issues_count": 11,
+    "forks_count": 371
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 753,
-    "open_issues_count": 17,
-    "forks_count": 363
+    "stargazers_count": 761,
+    "open_issues_count": 18,
+    "forks_count": 364
   },
   {
     "full_name": "WebDevSimplified/Noob-Vs-Pro-Code",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "andrey-ushakov/esc_pos_printer",
-    "stargazers_count": 244,
+    "stargazers_count": 245,
     "open_issues_count": 69,
-    "forks_count": 202
+    "forks_count": 203
   },
   {
     "full_name": "imAbdelhadi/nextjs-arabic-handbook",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "jondot/awesome-react-native",
-    "stargazers_count": 31837,
+    "stargazers_count": 31847,
     "open_issues_count": 60,
-    "forks_count": 3908
+    "forks_count": 3906
   },
   {
     "full_name": "MohamadKh75/react-native-jalali-datepicker",
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "jlmakes/scrollreveal",
-    "stargazers_count": 20983,
+    "stargazers_count": 20987,
     "open_issues_count": 22,
-    "forks_count": 2185
+    "forks_count": 2184
   },
   {
     "full_name": "yoksel/url-encoder",
-    "stargazers_count": 934,
+    "stargazers_count": 936,
     "open_issues_count": 15,
     "forks_count": 149
   },
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "dwyl/learn-seo",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 13,
     "forks_count": 9
   },
   {
     "full_name": "ghosh/uiGradients",
-    "stargazers_count": 5619,
-    "open_issues_count": 213,
-    "forks_count": 1303
+    "stargazers_count": 5622,
+    "open_issues_count": 214,
+    "forks_count": 1304
   }
 ]
