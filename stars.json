@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "tycrek/degoogle",
+    "stargazers_count": 6269,
+    "open_issues_count": 44,
+    "forks_count": 299
+  },
+  {
     "full_name": "berthubert/googerteller",
-    "stargazers_count": 1569,
+    "stargazers_count": 1813,
     "open_issues_count": 15,
-    "forks_count": 74
+    "forks_count": 87
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 30252,
-    "open_issues_count": 9,
-    "forks_count": 1482
+    "stargazers_count": 30313,
+    "open_issues_count": 10,
+    "forks_count": 1487
   },
   {
     "full_name": "lucidrains/imagen-pytorch",
-    "stargazers_count": 4915,
+    "stargazers_count": 4973,
     "open_issues_count": 11,
-    "forks_count": 371
+    "forks_count": 383
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 761,
+    "stargazers_count": 763,
     "open_issues_count": 18,
-    "forks_count": 364
+    "forks_count": 368
   },
   {
     "full_name": "WebDevSimplified/Noob-Vs-Pro-Code",
     "stargazers_count": 139,
     "open_issues_count": 2,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "sharafa839/Baladna",
@@ -51,7 +57,7 @@
     "full_name": "transistorsoft/flutter_background_fetch",
     "stargazers_count": 489,
     "open_issues_count": 16,
-    "forks_count": 134
+    "forks_count": 135
   },
   {
     "full_name": "udacity/reactnd-project-myreads-starter",
@@ -80,7 +86,7 @@
   {
     "full_name": "andrey-ushakov/esc_pos_utils",
     "stargazers_count": 89,
-    "open_issues_count": 52,
+    "open_issues_count": 54,
     "forks_count": 134
   },
   {
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "jondot/awesome-react-native",
-    "stargazers_count": 31847,
-    "open_issues_count": 60,
-    "forks_count": 3906
+    "stargazers_count": 31861,
+    "open_issues_count": 61,
+    "forks_count": 3909
   },
   {
     "full_name": "MohamadKh75/react-native-jalali-datepicker",
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "jlmakes/scrollreveal",
-    "stargazers_count": 20987,
+    "stargazers_count": 20994,
     "open_issues_count": 22,
-    "forks_count": 2184
+    "forks_count": 2181
   },
   {
     "full_name": "yoksel/url-encoder",
-    "stargazers_count": 936,
+    "stargazers_count": 939,
     "open_issues_count": 15,
-    "forks_count": 149
+    "forks_count": 150
   },
   {
     "full_name": "daviddeborin/88-Key-Virtual-Piano",
@@ -133,8 +139,8 @@
   },
   {
     "full_name": "ghosh/uiGradients",
-    "stargazers_count": 5622,
+    "stargazers_count": 5626,
     "open_issues_count": 214,
-    "forks_count": 1304
+    "forks_count": 1305
   }
 ]
