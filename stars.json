@@ -1,39 +1,45 @@
 [
   {
+    "full_name": "hail2u/html-best-practices",
+    "stargazers_count": 3356,
+    "open_issues_count": 4,
+    "forks_count": 360
+  },
+  {
     "full_name": "tycrek/degoogle",
-    "stargazers_count": 6279,
+    "stargazers_count": 6291,
     "open_issues_count": 44,
-    "forks_count": 302
+    "forks_count": 303
   },
   {
     "full_name": "berthubert/googerteller",
-    "stargazers_count": 1859,
+    "stargazers_count": 1880,
     "open_issues_count": 15,
-    "forks_count": 92
+    "forks_count": 95
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 30382,
-    "open_issues_count": 11,
-    "forks_count": 1493
+    "stargazers_count": 30441,
+    "open_issues_count": 10,
+    "forks_count": 1500
   },
   {
     "full_name": "lucidrains/imagen-pytorch",
-    "stargazers_count": 5013,
-    "open_issues_count": 15,
-    "forks_count": 389
+    "stargazers_count": 5048,
+    "open_issues_count": 16,
+    "forks_count": 400
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 771,
+    "stargazers_count": 775,
     "open_issues_count": 19,
-    "forks_count": 372
+    "forks_count": 377
   },
   {
     "full_name": "WebDevSimplified/Noob-Vs-Pro-Code",
     "stargazers_count": 139,
     "open_issues_count": 2,
-    "forks_count": 59
+    "forks_count": 58
   },
   {
     "full_name": "sharafa839/Baladna",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "udacity/reactnd-project-myreads-starter",
-    "stargazers_count": 243,
+    "stargazers_count": 244,
     "open_issues_count": 27,
-    "forks_count": 3632
+    "forks_count": 3631
   },
   {
     "full_name": "udacity/reactnd-contacts-app",
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "basarat/coding-interview",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -86,8 +92,8 @@
   {
     "full_name": "andrey-ushakov/esc_pos_utils",
     "stargazers_count": 89,
-    "open_issues_count": 54,
-    "forks_count": 134
+    "open_issues_count": 55,
+    "forks_count": 133
   },
   {
     "full_name": "andrey-ushakov/esc_pos_printer",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "jondot/awesome-react-native",
-    "stargazers_count": 31881,
+    "stargazers_count": 31895,
     "open_issues_count": 61,
-    "forks_count": 3910
+    "forks_count": 3909
   },
   {
     "full_name": "MohamadKh75/react-native-jalali-datepicker",
@@ -115,13 +121,13 @@
   },
   {
     "full_name": "jlmakes/scrollreveal",
-    "stargazers_count": 20999,
+    "stargazers_count": 21006,
     "open_issues_count": 23,
-    "forks_count": 2181
+    "forks_count": 2182
   },
   {
     "full_name": "yoksel/url-encoder",
-    "stargazers_count": 940,
+    "stargazers_count": 945,
     "open_issues_count": 15,
     "forks_count": 151
   },
@@ -139,8 +145,8 @@
   },
   {
     "full_name": "ghosh/uiGradients",
-    "stargazers_count": 5627,
+    "stargazers_count": 5629,
     "open_issues_count": 215,
-    "forks_count": 1306
+    "forks_count": 1307
   }
 ]
