@@ -1,9 +1,33 @@
 [
   {
+    "full_name": "suren-atoyan/monaco-react",
+    "stargazers_count": 2050,
+    "open_issues_count": 58,
+    "forks_count": 153
+  },
+  {
+    "full_name": "simplelocalize/simplelocalize-next-translate",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "sealninja/react-ssr-example",
+    "stargazers_count": 33,
+    "open_issues_count": 1,
+    "forks_count": 21
+  },
+  {
+    "full_name": "googleapis/nodejs-translate",
+    "stargazers_count": 507,
+    "open_issues_count": 6,
+    "forks_count": 127
+  },
+  {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 1552,
+    "stargazers_count": 1576,
     "open_issues_count": 8,
-    "forks_count": 288
+    "forks_count": 293
   },
   {
     "full_name": "Anirban-1490/Downlist",
@@ -25,45 +49,45 @@
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 40497,
-    "open_issues_count": 565,
-    "forks_count": 2039
+    "stargazers_count": 40520,
+    "open_issues_count": 566,
+    "forks_count": 2040
   },
   {
     "full_name": "hail2u/html-best-practices",
-    "stargazers_count": 3410,
+    "stargazers_count": 3418,
     "open_issues_count": 3,
-    "forks_count": 368
+    "forks_count": 370
   },
   {
     "full_name": "tycrek/degoogle",
-    "stargazers_count": 6349,
-    "open_issues_count": 46,
-    "forks_count": 304
+    "stargazers_count": 6365,
+    "open_issues_count": 47,
+    "forks_count": 305
   },
   {
     "full_name": "berthubert/googerteller",
-    "stargazers_count": 1963,
+    "stargazers_count": 1976,
     "open_issues_count": 16,
     "forks_count": 101
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 30860,
-    "open_issues_count": 15,
-    "forks_count": 1525
+    "stargazers_count": 30914,
+    "open_issues_count": 14,
+    "forks_count": 1532
   },
   {
     "full_name": "lucidrains/imagen-pytorch",
-    "stargazers_count": 5249,
-    "open_issues_count": 25,
-    "forks_count": 435
+    "stargazers_count": 5278,
+    "open_issues_count": 31,
+    "forks_count": 444
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 794,
+    "stargazers_count": 798,
     "open_issues_count": 19,
-    "forks_count": 394
+    "forks_count": 397
   },
   {
     "full_name": "WebDevSimplified/Noob-Vs-Pro-Code",
@@ -92,20 +116,20 @@
   {
     "full_name": "transistorsoft/flutter_background_fetch",
     "stargazers_count": 491,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 136
   },
   {
     "full_name": "udacity/reactnd-project-myreads-starter",
     "stargazers_count": 244,
     "open_issues_count": 27,
-    "forks_count": 3634
+    "forks_count": 3635
   },
   {
     "full_name": "udacity/reactnd-contacts-app",
     "stargazers_count": 109,
     "open_issues_count": 6,
-    "forks_count": 606
+    "forks_count": 607
   },
   {
     "full_name": "basarat/coding-interview",
@@ -139,8 +163,8 @@
   },
   {
     "full_name": "jondot/awesome-react-native",
-    "stargazers_count": 31959,
-    "open_issues_count": 62,
+    "stargazers_count": 31967,
+    "open_issues_count": 63,
     "forks_count": 3912
   },
   {
@@ -151,32 +175,8 @@
   },
   {
     "full_name": "jlmakes/scrollreveal",
-    "stargazers_count": 21060,
+    "stargazers_count": 21070,
     "open_issues_count": 23,
     "forks_count": 2184
-  },
-  {
-    "full_name": "yoksel/url-encoder",
-    "stargazers_count": 956,
-    "open_issues_count": 15,
-    "forks_count": 151
-  },
-  {
-    "full_name": "daviddeborin/88-Key-Virtual-Piano",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "dwyl/learn-seo",
-    "stargazers_count": 15,
-    "open_issues_count": 13,
-    "forks_count": 9
-  },
-  {
-    "full_name": "ghosh/uiGradients",
-    "stargazers_count": 5641,
-    "open_issues_count": 213,
-    "forks_count": 1308
   }
 ]
