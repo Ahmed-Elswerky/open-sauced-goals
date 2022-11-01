@@ -1,15 +1,15 @@
 [
   {
     "full_name": "emad-elsaid/xlog",
-    "stargazers_count": 23,
+    "stargazers_count": 26,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 12532,
-    "open_issues_count": 198,
-    "forks_count": 502
+    "stargazers_count": 12672,
+    "open_issues_count": 199,
+    "forks_count": 510
   },
   {
     "full_name": "Lodennn/Kinetic",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "dortania/OpenCore-Install-Guide",
-    "stargazers_count": 2947,
-    "open_issues_count": 9,
-    "forks_count": 542
+    "stargazers_count": 2956,
+    "open_issues_count": 10,
+    "forks_count": 545
   },
   {
     "full_name": "suren-atoyan/monaco-react",
-    "stargazers_count": 2102,
+    "stargazers_count": 2114,
     "open_issues_count": 63,
     "forks_count": 155
   },
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 1692,
+    "stargazers_count": 1715,
     "open_issues_count": 6,
-    "forks_count": 320
+    "forks_count": 323
   },
   {
     "full_name": "Anirban-1490/Downlist",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 2,
     "forks_count": 0
   },
@@ -73,45 +73,45 @@
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 41071,
-    "open_issues_count": 574,
+    "stargazers_count": 41111,
+    "open_issues_count": 581,
     "forks_count": 2056
   },
   {
     "full_name": "hail2u/html-best-practices",
-    "stargazers_count": 3458,
+    "stargazers_count": 3468,
     "open_issues_count": 3,
-    "forks_count": 381
+    "forks_count": 380
   },
   {
     "full_name": "tycrek/degoogle",
-    "stargazers_count": 6430,
+    "stargazers_count": 6437,
     "open_issues_count": 49,
-    "forks_count": 308
+    "forks_count": 307
   },
   {
     "full_name": "berthubert/googerteller",
-    "stargazers_count": 1993,
+    "stargazers_count": 1994,
     "open_issues_count": 16,
     "forks_count": 103
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 31378,
-    "open_issues_count": 5,
-    "forks_count": 1558
+    "stargazers_count": 31452,
+    "open_issues_count": 6,
+    "forks_count": 1561
   },
   {
     "full_name": "lucidrains/imagen-pytorch",
-    "stargazers_count": 5503,
-    "open_issues_count": 45,
-    "forks_count": 479
+    "stargazers_count": 5527,
+    "open_issues_count": 46,
+    "forks_count": 483
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 803,
+    "stargazers_count": 804,
     "open_issues_count": 9,
-    "forks_count": 420
+    "forks_count": 423
   },
   {
     "full_name": "WebDevSimplified/Noob-Vs-Pro-Code",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "transistorsoft/flutter_background_fetch",
-    "stargazers_count": 493,
+    "stargazers_count": 494,
     "open_issues_count": 22,
     "forks_count": 138
   },
@@ -147,13 +147,13 @@
     "full_name": "udacity/reactnd-project-myreads-starter",
     "stargazers_count": 243,
     "open_issues_count": 27,
-    "forks_count": 3640
+    "forks_count": 3639
   },
   {
     "full_name": "udacity/reactnd-contacts-app",
     "stargazers_count": 110,
     "open_issues_count": 6,
-    "forks_count": 607
+    "forks_count": 606
   },
   {
     "full_name": "basarat/coding-interview",
@@ -176,7 +176,7 @@
   {
     "full_name": "andrey-ushakov/esc_pos_printer",
     "stargazers_count": 250,
-    "open_issues_count": 71,
+    "open_issues_count": 72,
     "forks_count": 207
   }
 ]
