@@ -1,9 +1,9 @@
 [
   {
     "full_name": "tarekbadrshalaan/screenshot-service",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "amithit/react-form-builder",
@@ -13,33 +13,33 @@
   },
   {
     "full_name": "chetanverma16/react-portfolio-template",
-    "stargazers_count": 827,
+    "stargazers_count": 832,
     "open_issues_count": 7,
-    "forks_count": 391
+    "forks_count": 396
   },
   {
     "full_name": "Eyadhamza/Computer-Science-Entry",
-    "stargazers_count": 101,
-    "open_issues_count": 1,
+    "stargazers_count": 102,
+    "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "casesandberg/react-color",
-    "stargazers_count": 11230,
+    "stargazers_count": 11238,
     "open_issues_count": 202,
-    "forks_count": 918
+    "forks_count": 919
   },
   {
     "full_name": "emad-elsaid/xlog",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 15288,
-    "open_issues_count": 313,
-    "forks_count": 708
+    "stargazers_count": 15365,
+    "open_issues_count": 316,
+    "forks_count": 726
   },
   {
     "full_name": "Lodennn/Kinetic",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "dortania/OpenCore-Install-Guide",
-    "stargazers_count": 3127,
+    "stargazers_count": 3135,
     "open_issues_count": 16,
-    "forks_count": 571
+    "forks_count": 575
   },
   {
     "full_name": "suren-atoyan/monaco-react",
-    "stargazers_count": 2302,
+    "stargazers_count": 2309,
     "open_issues_count": 73,
-    "forks_count": 175
+    "forks_count": 176
   },
   {
     "full_name": "simplelocalize/simplelocalize-next-translate",
@@ -69,7 +69,7 @@
     "full_name": "sealninja/react-ssr-example",
     "stargazers_count": 34,
     "open_issues_count": 2,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "googleapis/nodejs-translate",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 2239,
+    "stargazers_count": 2265,
     "open_issues_count": 9,
-    "forks_count": 428
+    "forks_count": 431
   },
   {
     "full_name": "Anirban-1490/Downlist",
@@ -103,45 +103,45 @@
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 42218,
-    "open_issues_count": 675,
-    "forks_count": 2134
+    "stargazers_count": 42251,
+    "open_issues_count": 677,
+    "forks_count": 2137
   },
   {
     "full_name": "hail2u/html-best-practices",
-    "stargazers_count": 3672,
+    "stargazers_count": 3683,
     "open_issues_count": 3,
     "forks_count": 410
   },
   {
     "full_name": "tycrek/degoogle",
-    "stargazers_count": 6610,
-    "open_issues_count": 54,
-    "forks_count": 309
+    "stargazers_count": 6617,
+    "open_issues_count": 55,
+    "forks_count": 310
   },
   {
     "full_name": "berthubert/googerteller",
-    "stargazers_count": 2022,
+    "stargazers_count": 2024,
     "open_issues_count": 15,
     "forks_count": 102
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 33263,
-    "open_issues_count": 16,
-    "forks_count": 1649
+    "stargazers_count": 33347,
+    "open_issues_count": 17,
+    "forks_count": 1654
   },
   {
     "full_name": "lucidrains/imagen-pytorch",
-    "stargazers_count": 6251,
-    "open_issues_count": 68,
-    "forks_count": 570
+    "stargazers_count": 6274,
+    "open_issues_count": 71,
+    "forks_count": 573
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 840,
+    "stargazers_count": 841,
     "open_issues_count": 9,
-    "forks_count": 529
+    "forks_count": 533
   },
   {
     "full_name": "WebDevSimplified/Noob-Vs-Pro-Code",
@@ -171,12 +171,12 @@
     "full_name": "transistorsoft/flutter_background_fetch",
     "stargazers_count": 511,
     "open_issues_count": 25,
-    "forks_count": 146
+    "forks_count": 145
   },
   {
     "full_name": "udacity/reactnd-project-myreads-starter",
     "stargazers_count": 244,
     "open_issues_count": 27,
-    "forks_count": 3628
+    "forks_count": 3629
   }
 ]
