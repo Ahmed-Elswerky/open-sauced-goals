@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "aosabook/500lines",
+    "stargazers_count": 28440,
+    "open_issues_count": 57,
+    "forks_count": 5943
+  },
+  {
     "full_name": "dragonked2/Egyscan",
-    "stargazers_count": 76,
-    "open_issues_count": 1,
-    "forks_count": 12
+    "stargazers_count": 77,
+    "open_issues_count": 0,
+    "forks_count": 14
   },
   {
     "full_name": "ahmadalfy/modern-todomvc-vanillajs",
@@ -13,13 +19,13 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 900,
+    "stargazers_count": 902,
     "open_issues_count": 127,
-    "forks_count": 278
+    "forks_count": 280
   },
   {
     "full_name": "anchetaWern/React-Native-Food-Delivery",
-    "stargazers_count": 204,
+    "stargazers_count": 205,
     "open_issues_count": 4,
     "forks_count": 155
   },
@@ -31,19 +37,19 @@
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 37921,
+    "stargazers_count": 37939,
     "open_issues_count": 22,
-    "forks_count": 5437
+    "forks_count": 5440
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 37523,
+    "stargazers_count": 37555,
     "open_issues_count": 11,
-    "forks_count": 3153
+    "forks_count": 3160
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 57541,
+    "stargazers_count": 57570,
     "open_issues_count": 16,
     "forks_count": 10946
   },
@@ -57,23 +63,23 @@
     "full_name": "amithit/react-form-builder",
     "stargazers_count": 6,
     "open_issues_count": 9,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "chetanverma16/react-portfolio-template",
-    "stargazers_count": 965,
+    "stargazers_count": 968,
     "open_issues_count": 8,
-    "forks_count": 442
+    "forks_count": 443
   },
   {
     "full_name": "Eyadhamza/Computer-Science-Entry",
-    "stargazers_count": 155,
+    "stargazers_count": 159,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "casesandberg/react-color",
-    "stargazers_count": 11484,
+    "stargazers_count": 11493,
     "open_issues_count": 208,
     "forks_count": 928
   },
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 18404,
-    "open_issues_count": 439,
-    "forks_count": 1010
+    "stargazers_count": 18439,
+    "open_issues_count": 440,
+    "forks_count": 1019
   },
   {
     "full_name": "Lodennn/Kinetic",
@@ -97,15 +103,15 @@
   },
   {
     "full_name": "dortania/OpenCore-Install-Guide",
-    "stargazers_count": 3378,
+    "stargazers_count": 3384,
     "open_issues_count": 9,
     "forks_count": 614
   },
   {
     "full_name": "suren-atoyan/monaco-react",
-    "stargazers_count": 2695,
+    "stargazers_count": 2700,
     "open_issues_count": 89,
-    "forks_count": 208
+    "forks_count": 209
   },
   {
     "full_name": "simplelocalize/simplelocalize-next-translate",
@@ -117,19 +123,19 @@
     "full_name": "sealninja/react-ssr-example",
     "stargazers_count": 41,
     "open_issues_count": 1,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "googleapis/nodejs-translate",
     "stargazers_count": 516,
     "open_issues_count": 0,
-    "forks_count": 128
+    "forks_count": 129
   },
   {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 3137,
+    "stargazers_count": 3152,
     "open_issues_count": 14,
-    "forks_count": 523
+    "forks_count": 526
   },
   {
     "full_name": "Anirban-1490/Downlist",
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 43649,
-    "open_issues_count": 764,
-    "forks_count": 2204
+    "stargazers_count": 43678,
+    "open_issues_count": 766,
+    "forks_count": 2207
   },
   {
     "full_name": "hail2u/html-best-practices",
-    "stargazers_count": 4012,
+    "stargazers_count": 4020,
     "open_issues_count": 2,
-    "forks_count": 435
+    "forks_count": 434
   },
   {
     "full_name": "tycrek/degoogle",
-    "stargazers_count": 6866,
+    "stargazers_count": 6873,
     "open_issues_count": 62,
     "forks_count": 326
   },
   {
     "full_name": "berthubert/googerteller",
-    "stargazers_count": 2040,
+    "stargazers_count": 2041,
     "open_issues_count": 16,
     "forks_count": 104
-  },
-  {
-    "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 36026,
-    "open_issues_count": 21,
-    "forks_count": 1811
   }
 ]
