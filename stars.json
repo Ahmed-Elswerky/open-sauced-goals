@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "measuredco/puck",
+    "stargazers_count": 2342,
+    "open_issues_count": 17,
+    "forks_count": 69
+  },
+  {
     "full_name": "Nafezly/payments",
-    "stargazers_count": 297,
+    "stargazers_count": 298,
     "open_issues_count": 0,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "aosabook/500lines",
-    "stargazers_count": 28537,
+    "stargazers_count": 28543,
     "open_issues_count": 58,
-    "forks_count": 5942
+    "forks_count": 5943
   },
   {
     "full_name": "dragonked2/Egyscan",
     "stargazers_count": 98,
     "open_issues_count": 0,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "ahmadalfy/modern-todomvc-vanillajs",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 950,
-    "open_issues_count": 133,
-    "forks_count": 289
+    "stargazers_count": 954,
+    "open_issues_count": 132,
+    "forks_count": 290
   },
   {
     "full_name": "anchetaWern/React-Native-Food-Delivery",
@@ -43,21 +49,21 @@
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 38150,
+    "stargazers_count": 38170,
     "open_issues_count": 23,
-    "forks_count": 5465
+    "forks_count": 5468
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 38392,
-    "open_issues_count": 12,
-    "forks_count": 3217
+    "stargazers_count": 38433,
+    "open_issues_count": 10,
+    "forks_count": 3219
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 57778,
-    "open_issues_count": 17,
-    "forks_count": 10972
+    "stargazers_count": 57792,
+    "open_issues_count": 6,
+    "forks_count": 10975
   },
   {
     "full_name": "tarekbadrshalaan/screenshot-service",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "chetanverma16/react-portfolio-template",
-    "stargazers_count": 1010,
+    "stargazers_count": 1014,
     "open_issues_count": 8,
-    "forks_count": 460
+    "forks_count": 459
   },
   {
     "full_name": "Eyadhamza/Computer-Science-Entry",
@@ -85,21 +91,21 @@
   },
   {
     "full_name": "casesandberg/react-color",
-    "stargazers_count": 11545,
+    "stargazers_count": 11552,
     "open_issues_count": 209,
-    "forks_count": 935
+    "forks_count": 936
   },
   {
     "full_name": "emad-elsaid/xlog",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 4,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 18732,
-    "open_issues_count": 415,
-    "forks_count": 1053
+    "stargazers_count": 18760,
+    "open_issues_count": 401,
+    "forks_count": 1059
   },
   {
     "full_name": "Lodennn/Kinetic",
@@ -109,14 +115,14 @@
   },
   {
     "full_name": "dortania/OpenCore-Install-Guide",
-    "stargazers_count": 3428,
-    "open_issues_count": 13,
-    "forks_count": 616
+    "stargazers_count": 3431,
+    "open_issues_count": 14,
+    "forks_count": 617
   },
   {
     "full_name": "suren-atoyan/monaco-react",
-    "stargazers_count": 2805,
-    "open_issues_count": 95,
+    "stargazers_count": 2814,
+    "open_issues_count": 96,
     "forks_count": 215
   },
   {
@@ -135,13 +141,13 @@
     "full_name": "googleapis/nodejs-translate",
     "stargazers_count": 515,
     "open_issues_count": 0,
-    "forks_count": 139
+    "forks_count": 140
   },
   {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 3449,
+    "stargazers_count": 3460,
     "open_issues_count": 15,
-    "forks_count": 546
+    "forks_count": 545
   },
   {
     "full_name": "Anirban-1490/Downlist",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 43988,
-    "open_issues_count": 812,
-    "forks_count": 2227
+    "stargazers_count": 44020,
+    "open_issues_count": 814,
+    "forks_count": 2226
   },
   {
     "full_name": "hail2u/html-best-practices",
-    "stargazers_count": 4056,
+    "stargazers_count": 4055,
     "open_issues_count": 2,
     "forks_count": 454
-  },
-  {
-    "full_name": "tycrek/degoogle",
-    "stargazers_count": 6918,
-    "open_issues_count": 63,
-    "forks_count": 327
   }
 ]
