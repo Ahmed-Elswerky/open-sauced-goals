@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "KL13NT/badeel",
+    "stargazers_count": 13,
+    "open_issues_count": 11,
+    "forks_count": 2
+  },
+  {
     "full_name": "measuredco/puck",
-    "stargazers_count": 3589,
-    "open_issues_count": 40,
-    "forks_count": 139
+    "stargazers_count": 3594,
+    "open_issues_count": 43,
+    "forks_count": 138
   },
   {
     "full_name": "Nafezly/payments",
@@ -13,13 +19,13 @@
   },
   {
     "full_name": "aosabook/500lines",
-    "stargazers_count": 28643,
+    "stargazers_count": 28653,
     "open_issues_count": 59,
-    "forks_count": 5962
+    "forks_count": 5963
   },
   {
     "full_name": "dragonked2/Egyscan",
-    "stargazers_count": 152,
+    "stargazers_count": 150,
     "open_issues_count": 0,
     "forks_count": 29
   },
@@ -31,15 +37,15 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1040,
+    "stargazers_count": 1044,
     "open_issues_count": 140,
     "forks_count": 313
   },
   {
     "full_name": "anchetaWern/React-Native-Food-Delivery",
-    "stargazers_count": 211,
+    "stargazers_count": 214,
     "open_issues_count": 5,
-    "forks_count": 158
+    "forks_count": 159
   },
   {
     "full_name": "nermeenwageh10/Leetcode-Solutions",
@@ -49,21 +55,21 @@
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 39045,
+    "stargazers_count": 39058,
     "open_issues_count": 10,
-    "forks_count": 5559
+    "forks_count": 5564
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 39253,
-    "open_issues_count": 12,
-    "forks_count": 3282
+    "stargazers_count": 39285,
+    "open_issues_count": 13,
+    "forks_count": 3285
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 58231,
-    "open_issues_count": 37,
-    "forks_count": 11041
+    "stargazers_count": 58248,
+    "open_issues_count": 39,
+    "forks_count": 11043
   },
   {
     "full_name": "tarekbadrshalaan/screenshot-service",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "chetanverma16/react-portfolio-template",
-    "stargazers_count": 1095,
+    "stargazers_count": 1099,
     "open_issues_count": 7,
-    "forks_count": 480
+    "forks_count": 481
   },
   {
     "full_name": "PI-Space/Computer-Science-Entry",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "casesandberg/react-color",
-    "stargazers_count": 11676,
+    "stargazers_count": 11679,
     "open_issues_count": 213,
-    "forks_count": 946
+    "forks_count": 947
   },
   {
     "full_name": "emad-elsaid/xlog",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 19332,
-    "open_issues_count": 408,
-    "forks_count": 1139
+    "stargazers_count": 19358,
+    "open_issues_count": 422,
+    "forks_count": 1145
   },
   {
     "full_name": "Lodennn/Kinetic",
@@ -115,15 +121,15 @@
   },
   {
     "full_name": "dortania/OpenCore-Install-Guide",
-    "stargazers_count": 3519,
+    "stargazers_count": 3525,
     "open_issues_count": 20,
-    "forks_count": 637
+    "forks_count": 638
   },
   {
     "full_name": "suren-atoyan/monaco-react",
-    "stargazers_count": 3023,
-    "open_issues_count": 115,
-    "forks_count": 226
+    "stargazers_count": 3037,
+    "open_issues_count": 114,
+    "forks_count": 227
   },
   {
     "full_name": "simplelocalize/simplelocalize-next-translate",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 3916,
+    "stargazers_count": 3931,
     "open_issues_count": 16,
-    "forks_count": 596
+    "forks_count": 599
   },
   {
     "full_name": "Anirban-1490/Downlist",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 44766,
+    "stargazers_count": 44796,
     "open_issues_count": 849,
-    "forks_count": 2248
-  },
-  {
-    "full_name": "hail2u/html-best-practices",
-    "stargazers_count": 4085,
-    "open_issues_count": 2,
-    "forks_count": 483
+    "forks_count": 2251
   }
 ]
