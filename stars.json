@@ -1,31 +1,37 @@
 [
   {
+    "full_name": "strapi/strapi",
+    "stargazers_count": 58179,
+    "open_issues_count": 570,
+    "forks_count": 7350
+  },
+  {
     "full_name": "KL13NT/badeel",
-    "stargazers_count": 41,
-    "open_issues_count": 10,
-    "forks_count": 5
+    "stargazers_count": 76,
+    "open_issues_count": 11,
+    "forks_count": 6
   },
   {
     "full_name": "measuredco/puck",
-    "stargazers_count": 3900,
-    "open_issues_count": 51,
-    "forks_count": 155
+    "stargazers_count": 3911,
+    "open_issues_count": 50,
+    "forks_count": 156
   },
   {
     "full_name": "Nafezly/payments",
     "stargazers_count": 322,
     "open_issues_count": 1,
-    "forks_count": 90
+    "forks_count": 91
   },
   {
     "full_name": "aosabook/500lines",
-    "stargazers_count": 28701,
+    "stargazers_count": 28704,
     "open_issues_count": 59,
-    "forks_count": 5965
+    "forks_count": 5963
   },
   {
     "full_name": "dragonked2/Egyscan",
-    "stargazers_count": 158,
+    "stargazers_count": 159,
     "open_issues_count": 0,
     "forks_count": 33
   },
@@ -37,39 +43,39 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1087,
+    "stargazers_count": 1091,
     "open_issues_count": 147,
-    "forks_count": 322
+    "forks_count": 323
   },
   {
     "full_name": "anchetaWern/React-Native-Food-Delivery",
     "stargazers_count": 218,
     "open_issues_count": 5,
-    "forks_count": 163
+    "forks_count": 162
   },
   {
     "full_name": "nermeenwageh10/Leetcode-Solutions",
-    "stargazers_count": 316,
+    "stargazers_count": 317,
     "open_issues_count": 6,
     "forks_count": 83
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 39228,
+    "stargazers_count": 39255,
     "open_issues_count": 9,
-    "forks_count": 5600
+    "forks_count": 5602
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 39538,
-    "open_issues_count": 12,
-    "forks_count": 3306
+    "stargazers_count": 39576,
+    "open_issues_count": 11,
+    "forks_count": 3311
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 58373,
-    "open_issues_count": 42,
-    "forks_count": 11069
+    "stargazers_count": 58390,
+    "open_issues_count": 40,
+    "forks_count": 11074
   },
   {
     "full_name": "tarekbadrshalaan/screenshot-service",
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "chetanverma16/react-portfolio-template",
-    "stargazers_count": 1117,
+    "stargazers_count": 1122,
     "open_issues_count": 7,
-    "forks_count": 492
+    "forks_count": 491
   },
   {
     "full_name": "PI-Space/Computer-Science-Entry",
@@ -97,21 +103,21 @@
   },
   {
     "full_name": "casesandberg/react-color",
-    "stargazers_count": 11735,
+    "stargazers_count": 11741,
     "open_issues_count": 214,
-    "forks_count": 948
+    "forks_count": 950
   },
   {
     "full_name": "emad-elsaid/xlog",
     "stargazers_count": 86,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 9
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 19537,
-    "open_issues_count": 439,
-    "forks_count": 1169
+    "stargazers_count": 19554,
+    "open_issues_count": 431,
+    "forks_count": 1172
   },
   {
     "full_name": "Lodennn/Kinetic",
@@ -121,15 +127,15 @@
   },
   {
     "full_name": "dortania/OpenCore-Install-Guide",
-    "stargazers_count": 3562,
+    "stargazers_count": 3566,
     "open_issues_count": 19,
-    "forks_count": 639
+    "forks_count": 641
   },
   {
     "full_name": "suren-atoyan/monaco-react",
-    "stargazers_count": 3104,
+    "stargazers_count": 3112,
     "open_issues_count": 119,
-    "forks_count": 233
+    "forks_count": 234
   },
   {
     "full_name": "simplelocalize/simplelocalize-next-translate",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 4084,
-    "open_issues_count": 17,
-    "forks_count": 632
+    "stargazers_count": 4109,
+    "open_issues_count": 18,
+    "forks_count": 639
   },
   {
     "full_name": "Anirban-1490/Downlist",
@@ -172,11 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "iamkun/dayjs",
-    "stargazers_count": 45019,
-    "open_issues_count": 867,
-    "forks_count": 2270
   }
 ]
