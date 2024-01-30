@@ -1,31 +1,37 @@
 [
   {
+    "full_name": "ravi84184/flutter_hr_management_design",
+    "stargazers_count": 94,
+    "open_issues_count": 2,
+    "forks_count": 46
+  },
+  {
     "full_name": "sst/demo-ai-app",
-    "stargazers_count": 634,
+    "stargazers_count": 641,
     "open_issues_count": 3,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 58538,
-    "open_issues_count": 593,
-    "forks_count": 7393
+    "stargazers_count": 58606,
+    "open_issues_count": 598,
+    "forks_count": 7406
   },
   {
     "full_name": "KL13NT/badeel",
-    "stargazers_count": 89,
-    "open_issues_count": 10,
-    "forks_count": 8
+    "stargazers_count": 122,
+    "open_issues_count": 11,
+    "forks_count": 11
   },
   {
     "full_name": "measuredco/puck",
-    "stargazers_count": 3966,
+    "stargazers_count": 3976,
     "open_issues_count": 54,
     "forks_count": 160
   },
   {
     "full_name": "Nafezly/payments",
-    "stargazers_count": 326,
+    "stargazers_count": 327,
     "open_issues_count": 1,
     "forks_count": 93
   },
@@ -33,7 +39,7 @@
     "full_name": "aosabook/500lines",
     "stargazers_count": 28800,
     "open_issues_count": 59,
-    "forks_count": 5968
+    "forks_count": 5973
   },
   {
     "full_name": "dragonked2/Egyscan",
@@ -49,13 +55,13 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1113,
-    "open_issues_count": 152,
+    "stargazers_count": 1115,
+    "open_issues_count": 153,
     "forks_count": 326
   },
   {
     "full_name": "anchetaWern/React-Native-Food-Delivery",
-    "stargazers_count": 224,
+    "stargazers_count": 226,
     "open_issues_count": 7,
     "forks_count": 162
   },
@@ -67,21 +73,21 @@
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 39375,
+    "stargazers_count": 39403,
     "open_issues_count": 9,
-    "forks_count": 5623
+    "forks_count": 5626
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 40144,
+    "stargazers_count": 40235,
     "open_issues_count": 11,
-    "forks_count": 3343
+    "forks_count": 3350
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 58472,
+    "stargazers_count": 58502,
     "open_issues_count": 39,
-    "forks_count": 11090
+    "forks_count": 11091
   },
   {
     "full_name": "tarekbadrshalaan/screenshot-service",
@@ -91,25 +97,25 @@
   },
   {
     "full_name": "amithit/react-form-builder",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 9,
     "forks_count": 6
   },
   {
     "full_name": "chetanverma16/react-portfolio-template",
-    "stargazers_count": 1142,
+    "stargazers_count": 1146,
     "open_issues_count": 7,
     "forks_count": 498
   },
   {
     "full_name": "PI-Space/Computer-Science-Entry",
-    "stargazers_count": 192,
+    "stargazers_count": 193,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "casesandberg/react-color",
-    "stargazers_count": 11760,
+    "stargazers_count": 11767,
     "open_issues_count": 215,
     "forks_count": 953
   },
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 19667,
-    "open_issues_count": 387,
-    "forks_count": 1181
+    "stargazers_count": 19707,
+    "open_issues_count": 388,
+    "forks_count": 1184
   },
   {
     "full_name": "Lodennn/Kinetic",
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "suren-atoyan/monaco-react",
-    "stargazers_count": 3151,
+    "stargazers_count": 3155,
     "open_issues_count": 112,
-    "forks_count": 235
+    "forks_count": 236
   },
   {
     "full_name": "simplelocalize/simplelocalize-next-translate",
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "sealninja/react-ssr-example",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 1,
     "forks_count": 29
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 4210,
+    "stargazers_count": 4225,
     "open_issues_count": 19,
-    "forks_count": 656
+    "forks_count": 658
   },
   {
     "full_name": "Anirban-1490/Downlist",
     "stargazers_count": 20,
     "open_issues_count": 2,
     "forks_count": 4
-  },
-  {
-    "full_name": "pacoita/modern-web",
-    "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 3
   }
 ]
