@@ -1,19 +1,19 @@
 [
   {
     "full_name": "restatedev/restate",
-    "stargazers_count": 1294,
-    "open_issues_count": 179,
+    "stargazers_count": 1304,
+    "open_issues_count": 177,
     "forks_count": 33
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 13337,
-    "open_issues_count": 331,
-    "forks_count": 929
+    "stargazers_count": 13419,
+    "open_issues_count": 343,
+    "forks_count": 940
   },
   {
     "full_name": "i-godz/Data-Warehouse-Notes",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 61704,
-    "open_issues_count": 733,
-    "forks_count": 7715
+    "stargazers_count": 61820,
+    "open_issues_count": 755,
+    "forks_count": 7724
   },
   {
     "full_name": "KL13NT/badeel",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "measuredco/puck",
-    "stargazers_count": 4825,
-    "open_issues_count": 83,
-    "forks_count": 243
+    "stargazers_count": 4835,
+    "open_issues_count": 85,
+    "forks_count": 247
   },
   {
     "full_name": "Nafezly/payments",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "aosabook/500lines",
-    "stargazers_count": 29179,
+    "stargazers_count": 29183,
     "open_issues_count": 59,
-    "forks_count": 5877
+    "forks_count": 5876
   },
   {
     "full_name": "dragonked2/Egyscan",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 5,
     "forks_count": 39
   },
@@ -86,7 +86,7 @@
   {
     "full_name": "quran/quran.com-frontend-next",
     "stargazers_count": 1305,
-    "open_issues_count": 178,
+    "open_issues_count": 177,
     "forks_count": 382
   },
   {
@@ -103,24 +103,24 @@
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 40825,
+    "stargazers_count": 40843,
     "open_issues_count": 11,
-    "forks_count": 5686
+    "forks_count": 5690
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 43154,
-    "open_issues_count": 10,
+    "stargazers_count": 43203,
+    "open_issues_count": 11,
     "forks_count": 3407
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 59272,
+    "stargazers_count": 59277,
     "open_issues_count": 41,
-    "forks_count": 11035
+    "forks_count": 11037
   },
   {
-    "full_name": "tarekbadrshalaan/screenshot-service",
+    "full_name": "tarekbadrsh/screenshot-service",
     "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 1
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "chetanverma16/react-portfolio-template",
-    "stargazers_count": 1292,
-    "open_issues_count": 9,
-    "forks_count": 572
+    "stargazers_count": 1296,
+    "open_issues_count": 10,
+    "forks_count": 573
   },
   {
     "full_name": "PI-Space/Computer-Science-Entry",
@@ -145,20 +145,20 @@
   },
   {
     "full_name": "casesandberg/react-color",
-    "stargazers_count": 11930,
+    "stargazers_count": 11934,
     "open_issues_count": 219,
-    "forks_count": 913
+    "forks_count": 914
   },
   {
     "full_name": "emad-elsaid/xlog",
-    "stargazers_count": 128,
+    "stargazers_count": 131,
     "open_issues_count": 7,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "QwikDev/qwik",
-    "stargazers_count": 20476,
-    "open_issues_count": 296,
+    "stargazers_count": 20484,
+    "open_issues_count": 301,
     "forks_count": 1262
   },
   {
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "dortania/OpenCore-Install-Guide",
-    "stargazers_count": 3731,
-    "open_issues_count": 24,
+    "stargazers_count": 3735,
+    "open_issues_count": 25,
     "forks_count": 649
   },
   {
     "full_name": "suren-atoyan/monaco-react",
-    "stargazers_count": 3520,
+    "stargazers_count": 3525,
     "open_issues_count": 140,
     "forks_count": 258
   }
