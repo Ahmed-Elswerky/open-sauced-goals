@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "wordware-ai/twitter",
+    "stargazers_count": 978,
+    "open_issues_count": 1,
+    "forks_count": 165
+  },
+  {
     "full_name": "restatedev/restate",
-    "stargazers_count": 1360,
-    "open_issues_count": 175,
+    "stargazers_count": 1367,
+    "open_issues_count": 179,
     "forks_count": 35
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 14165,
-    "open_issues_count": 410,
-    "forks_count": 1020
+    "stargazers_count": 14233,
+    "open_issues_count": 411,
+    "forks_count": 1036
   },
   {
     "full_name": "i-godz/Data-Warehouse-Notes",
@@ -43,37 +49,37 @@
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 62205,
-    "open_issues_count": 814,
-    "forks_count": 7778
+    "stargazers_count": 62255,
+    "open_issues_count": 819,
+    "forks_count": 7788
   },
   {
     "full_name": "KL13NT/badeel",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 10,
     "forks_count": 24
   },
   {
     "full_name": "measuredco/puck",
-    "stargazers_count": 4908,
-    "open_issues_count": 95,
-    "forks_count": 256
+    "stargazers_count": 4919,
+    "open_issues_count": 94,
+    "forks_count": 258
   },
   {
     "full_name": "Nafezly/payments",
-    "stargazers_count": 378,
+    "stargazers_count": 379,
     "open_issues_count": 8,
     "forks_count": 108
   },
   {
     "full_name": "aosabook/500lines",
-    "stargazers_count": 29190,
+    "stargazers_count": 29184,
     "open_issues_count": 59,
-    "forks_count": 5878
+    "forks_count": 5877
   },
   {
     "full_name": "dragonked2/Egyscan",
-    "stargazers_count": 229,
+    "stargazers_count": 228,
     "open_issues_count": 6,
     "forks_count": 40
   },
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1325,
+    "stargazers_count": 1328,
     "open_issues_count": 176,
-    "forks_count": 384
+    "forks_count": 385
   },
   {
     "full_name": "anchetaWern/React-Native-Food-Delivery",
@@ -103,21 +109,21 @@
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 40995,
+    "stargazers_count": 41048,
     "open_issues_count": 12,
-    "forks_count": 5713
+    "forks_count": 5714
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 43669,
+    "stargazers_count": 43757,
     "open_issues_count": 12,
-    "forks_count": 3432
+    "forks_count": 3436
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 59367,
+    "stargazers_count": 59375,
     "open_issues_count": 39,
-    "forks_count": 11037
+    "forks_count": 11033
   },
   {
     "full_name": "tarekbadrsh/screenshot-service",
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "chetanverma16/react-portfolio-template",
-    "stargazers_count": 1309,
+    "stargazers_count": 1311,
     "open_issues_count": 10,
-    "forks_count": 580
+    "forks_count": 579
   },
   {
     "full_name": "PI-Space/Computer-Science-Entry",
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "casesandberg/react-color",
-    "stargazers_count": 11962,
+    "stargazers_count": 11966,
     "open_issues_count": 221,
     "forks_count": 913
   },
@@ -153,13 +159,13 @@
     "full_name": "emad-elsaid/xlog",
     "stargazers_count": 135,
     "open_issues_count": 8,
-    "forks_count": 16
+    "forks_count": 15
   },
   {
     "full_name": "QwikDev/qwik",
-    "stargazers_count": 20549,
-    "open_issues_count": 304,
-    "forks_count": 1279
+    "stargazers_count": 20557,
+    "open_issues_count": 307,
+    "forks_count": 1285
   },
   {
     "full_name": "Lodennn/Kinetic",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "dortania/OpenCore-Install-Guide",
-    "stargazers_count": 3752,
+    "stargazers_count": 3754,
     "open_issues_count": 24,
-    "forks_count": 651
-  },
-  {
-    "full_name": "suren-atoyan/monaco-react",
-    "stargazers_count": 3580,
-    "open_issues_count": 145,
-    "forks_count": 259
+    "forks_count": 652
   }
 ]
