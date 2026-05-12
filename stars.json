@@ -1,33 +1,33 @@
 [
   {
     "full_name": "santifer/career-ops",
-    "stargazers_count": 43393,
-    "open_issues_count": 183,
-    "forks_count": 9082
+    "stargazers_count": 44156,
+    "open_issues_count": 198,
+    "forks_count": 9263
   },
   {
     "full_name": "ultraworkers/claw-code",
-    "stargazers_count": 190613,
-    "open_issues_count": 1373,
-    "forks_count": 109759
+    "stargazers_count": 191140,
+    "open_issues_count": 1381,
+    "forks_count": 109851
   },
   {
     "full_name": "claude-code-best/claude-code",
-    "stargazers_count": 17771,
-    "open_issues_count": 21,
-    "forks_count": 15688
+    "stargazers_count": 18055,
+    "open_issues_count": 270,
+    "forks_count": 15762
   },
   {
     "full_name": "systemdesign42/system-design-academy",
-    "stargazers_count": 24362,
+    "stargazers_count": 24452,
     "open_issues_count": 0,
-    "forks_count": 3046
+    "forks_count": 3086
   },
   {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 79594,
-    "open_issues_count": 185,
-    "forks_count": 11605
+    "stargazers_count": 80509,
+    "open_issues_count": 186,
+    "forks_count": 11719
   },
   {
     "full_name": "N1xev/bubbleMonitor",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "voideditor/void",
-    "stargazers_count": 28724,
+    "stargazers_count": 28742,
     "open_issues_count": 325,
-    "forks_count": 2481
+    "forks_count": 2488
   },
   {
     "full_name": "wordware-ai/twitter",
-    "stargazers_count": 1447,
+    "stargazers_count": 1446,
     "open_issues_count": 8,
     "forks_count": 228
   },
   {
     "full_name": "restatedev/restate",
-    "stargazers_count": 3843,
-    "open_issues_count": 359,
-    "forks_count": 156
+    "stargazers_count": 3853,
+    "open_issues_count": 353,
+    "forks_count": 157
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 33033,
-    "open_issues_count": 699,
-    "forks_count": 4469
+    "stargazers_count": 33128,
+    "open_issues_count": 725,
+    "forks_count": 4494
   },
   {
     "full_name": "i-godz/Data-Warehouse-Notes",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "anomalyco/demo-ai-app",
-    "stargazers_count": 736,
+    "stargazers_count": 735,
     "open_issues_count": 4,
     "forks_count": 47
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 72097,
-    "open_issues_count": 753,
-    "forks_count": 9694
+    "stargazers_count": 72145,
+    "open_issues_count": 768,
+    "forks_count": 9702
   },
   {
     "full_name": "KL13NT/badeel",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "puckeditor/puck",
-    "stargazers_count": 12619,
-    "open_issues_count": 197,
-    "forks_count": 902
+    "stargazers_count": 12646,
+    "open_issues_count": 198,
+    "forks_count": 904
   },
   {
     "full_name": "Nafezly/payments",
     "stargazers_count": 479,
     "open_issues_count": 11,
-    "forks_count": 132
+    "forks_count": 131
   },
   {
     "full_name": "aosabook/500lines",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1848,
+    "stargazers_count": 1850,
     "open_issues_count": 282,
     "forks_count": 599
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "nermeenwageh10/Leetcode-Solutions",
-    "stargazers_count": 351,
+    "stargazers_count": 352,
     "open_issues_count": 6,
     "forks_count": 89
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 43952,
+    "stargazers_count": 43963,
     "open_issues_count": 11,
     "forks_count": 5955
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 50597,
-    "open_issues_count": 39,
-    "forks_count": 3886
+    "stargazers_count": 50603,
+    "open_issues_count": 38,
+    "forks_count": 3885
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 60828,
+    "stargazers_count": 60844,
     "open_issues_count": 58,
-    "forks_count": 11033
+    "forks_count": 11038
   }
 ]
