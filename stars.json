@@ -1,33 +1,33 @@
 [
   {
     "full_name": "santifer/career-ops",
-    "stargazers_count": 52905,
-    "open_issues_count": 115,
-    "forks_count": 10589
+    "stargazers_count": 53956,
+    "open_issues_count": 162,
+    "forks_count": 10727
   },
   {
     "full_name": "ultraworkers/claw-code",
-    "stargazers_count": 193662,
-    "open_issues_count": 7,
-    "forks_count": 109958
+    "stargazers_count": 193877,
+    "open_issues_count": 9,
+    "forks_count": 109959
   },
   {
     "full_name": "claude-code-best/claude-code",
-    "stargazers_count": 19867,
-    "open_issues_count": 13,
-    "forks_count": 16158
+    "stargazers_count": 20014,
+    "open_issues_count": 12,
+    "forks_count": 16186
   },
   {
     "full_name": "systemdesign42/system-design-academy",
-    "stargazers_count": 25611,
+    "stargazers_count": 25670,
     "open_issues_count": 0,
-    "forks_count": 3268
+    "forks_count": 3276
   },
   {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 86259,
-    "open_issues_count": 185,
-    "forks_count": 12499
+    "stargazers_count": 87064,
+    "open_issues_count": 193,
+    "forks_count": 12610
   },
   {
     "full_name": "N1xev/bubbleMonitor",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "voideditor/void",
-    "stargazers_count": 28816,
-    "open_issues_count": 306,
-    "forks_count": 2538
+    "stargazers_count": 28805,
+    "open_issues_count": 307,
+    "forks_count": 2537
   },
   {
     "full_name": "wordware-ai/twitter",
-    "stargazers_count": 1449,
-    "open_issues_count": 9,
-    "forks_count": 228
+    "stargazers_count": 1450,
+    "open_issues_count": 8,
+    "forks_count": 227
   },
   {
     "full_name": "restatedev/restate",
-    "stargazers_count": 4001,
-    "open_issues_count": 372,
-    "forks_count": 165
+    "stargazers_count": 4011,
+    "open_issues_count": 378,
+    "forks_count": 168
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 33660,
-    "open_issues_count": 756,
-    "forks_count": 4641
+    "stargazers_count": 33708,
+    "open_issues_count": 763,
+    "forks_count": 4666
   },
   {
     "full_name": "i-godz/Data-Warehouse-Notes",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 72336,
-    "open_issues_count": 641,
+    "stargazers_count": 72383,
+    "open_issues_count": 645,
     "forks_count": 9740
   },
   {
@@ -115,8 +115,8 @@
   },
   {
     "full_name": "puckeditor/puck",
-    "stargazers_count": 12796,
-    "open_issues_count": 194,
+    "stargazers_count": 12810,
+    "open_issues_count": 199,
     "forks_count": 919
   },
   {
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "aosabook/500lines",
-    "stargazers_count": 29584,
+    "stargazers_count": 29582,
     "open_issues_count": 59,
-    "forks_count": 5828
+    "forks_count": 5825
   },
   {
     "full_name": "dragonked2/Egyscan",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1869,
-    "open_issues_count": 289,
-    "forks_count": 604
+    "stargazers_count": 1870,
+    "open_issues_count": 287,
+    "forks_count": 606
   },
   {
     "full_name": "anchetaWern/React-Native-Food-Delivery",
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "nermeenwageh10/Leetcode-Solutions",
-    "stargazers_count": 365,
+    "stargazers_count": 366,
     "open_issues_count": 6,
     "forks_count": 91
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 43961,
+    "stargazers_count": 43959,
     "open_issues_count": 12,
     "forks_count": 5939
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 50852,
+    "stargazers_count": 50880,
     "open_issues_count": 9,
-    "forks_count": 3897
+    "forks_count": 3896
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 60884,
+    "stargazers_count": 60886,
     "open_issues_count": 61,
     "forks_count": 11035
   }
