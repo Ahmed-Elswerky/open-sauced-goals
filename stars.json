@@ -1,9 +1,9 @@
 [
   {
     "full_name": "futrx-com/remote.futrx",
-    "stargazers_count": 682,
-    "open_issues_count": 55,
-    "forks_count": 89
+    "stargazers_count": 696,
+    "open_issues_count": 61,
+    "forks_count": 93
   },
   {
     "full_name": "A-Hemeda/Remote-Jobs-List",
@@ -13,31 +13,31 @@
   },
   {
     "full_name": "career-ops-hq/career-ops",
-    "stargazers_count": 72648,
-    "open_issues_count": 609,
-    "forks_count": 13663
+    "stargazers_count": 73021,
+    "open_issues_count": 485,
+    "forks_count": 13722
   },
   {
     "full_name": "ultraworkers/claw-code",
-    "stargazers_count": 195281,
-    "open_issues_count": 47,
-    "forks_count": 108393
+    "stargazers_count": 195285,
+    "open_issues_count": 48,
+    "forks_count": 108331
   },
   {
     "full_name": "claude-code-best/claude-code",
-    "stargazers_count": 22734,
-    "open_issues_count": 46,
-    "forks_count": 16497
+    "stargazers_count": 22766,
+    "open_issues_count": 44,
+    "forks_count": 16495
   },
   {
     "full_name": "systemdesign42/system-design-academy",
-    "stargazers_count": 28967,
+    "stargazers_count": 28999,
     "open_issues_count": 0,
-    "forks_count": 3758
+    "forks_count": 3762
   },
   {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 96745,
+    "stargazers_count": 96978,
     "open_issues_count": 195,
     "forks_count": 13525
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "voideditor/void",
-    "stargazers_count": 28791,
-    "open_issues_count": 306,
-    "forks_count": 2651
+    "stargazers_count": 28784,
+    "open_issues_count": 305,
+    "forks_count": 2655
   },
   {
     "full_name": "wordware-ai/twitter",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "restatedev/restate",
-    "stargazers_count": 4470,
-    "open_issues_count": 438,
-    "forks_count": 208
+    "stargazers_count": 4483,
+    "open_issues_count": 431,
+    "forks_count": 210
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 36019,
-    "open_issues_count": 971,
-    "forks_count": 5430
+    "stargazers_count": 36053,
+    "open_issues_count": 839,
+    "forks_count": 5439
   },
   {
     "full_name": "i-godz/Data-Warehouse-Notes",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 73231,
-    "open_issues_count": 578,
-    "forks_count": 9883
+    "stargazers_count": 73250,
+    "open_issues_count": 580,
+    "forks_count": 9879
   },
   {
     "full_name": "KL13NT/badeel",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "puckeditor/puck",
-    "stargazers_count": 13357,
+    "stargazers_count": 13383,
     "open_issues_count": 198,
-    "forks_count": 977
+    "forks_count": 983
   },
   {
     "full_name": "Nafezly/payments",
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "aosabook/500lines",
-    "stargazers_count": 29581,
+    "stargazers_count": 29580,
     "open_issues_count": 59,
-    "forks_count": 5803
+    "forks_count": 5801
   },
   {
     "full_name": "dragonked2/Egyscan",
-    "stargazers_count": 302,
+    "stargazers_count": 303,
     "open_issues_count": 1,
     "forks_count": 59
   },
@@ -158,7 +158,7 @@
   {
     "full_name": "quran/quran.com-frontend-next",
     "stargazers_count": 1913,
-    "open_issues_count": 318,
+    "open_issues_count": 319,
     "forks_count": 625
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 44006,
+    "stargazers_count": 44009,
     "open_issues_count": 11,
-    "forks_count": 5926
+    "forks_count": 5928
   }
 ]
