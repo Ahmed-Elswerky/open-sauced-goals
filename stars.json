@@ -1,45 +1,69 @@
 [
   {
+    "full_name": "storytold/filmcraft",
+    "stargazers_count": 5870,
+    "open_issues_count": 207,
+    "forks_count": 2008
+  },
+  {
+    "full_name": "storytold/vectorcraft",
+    "stargazers_count": 4267,
+    "open_issues_count": 34,
+    "forks_count": 1671
+  },
+  {
+    "full_name": "storytold/effectcraft",
+    "stargazers_count": 3121,
+    "open_issues_count": 87,
+    "forks_count": 1344
+  },
+  {
+    "full_name": "storytold/photocraft",
+    "stargazers_count": 29655,
+    "open_issues_count": 376,
+    "forks_count": 4154
+  },
+  {
     "full_name": "futrx-com/remote.futrx",
-    "stargazers_count": 701,
+    "stargazers_count": 705,
     "open_issues_count": 93,
     "forks_count": 94
   },
   {
     "full_name": "A-Hemeda/Remote-Jobs-List",
-    "stargazers_count": 719,
+    "stargazers_count": 726,
     "open_issues_count": 0,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "career-ops-hq/career-ops",
-    "stargazers_count": 73585,
-    "open_issues_count": 398,
-    "forks_count": 13820
+    "stargazers_count": 73862,
+    "open_issues_count": 410,
+    "forks_count": 13864
   },
   {
     "full_name": "ultraworkers/claw-code",
-    "stargazers_count": 195212,
-    "open_issues_count": 48,
-    "forks_count": 108193
+    "stargazers_count": 194991,
+    "open_issues_count": 47,
+    "forks_count": 108122
   },
   {
     "full_name": "claude-code-best/claude-code",
-    "stargazers_count": 22817,
+    "stargazers_count": 22839,
     "open_issues_count": 44,
-    "forks_count": 16475
+    "forks_count": 16468
   },
   {
     "full_name": "systemdesign42/system-design-academy",
-    "stargazers_count": 29290,
+    "stargazers_count": 29312,
     "open_issues_count": 0,
     "forks_count": 3814
   },
   {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 97379,
-    "open_issues_count": 195,
-    "forks_count": 13547
+    "stargazers_count": 97565,
+    "open_issues_count": 194,
+    "forks_count": 13558
   },
   {
     "full_name": "sam0uly/bubbleMonitor",
@@ -61,9 +85,9 @@
   },
   {
     "full_name": "voideditor/void",
-    "stargazers_count": 28774,
-    "open_issues_count": 305,
-    "forks_count": 2659
+    "stargazers_count": 28768,
+    "open_issues_count": 304,
+    "forks_count": 2656
   },
   {
     "full_name": "wordware-ai/twitter",
@@ -73,15 +97,15 @@
   },
   {
     "full_name": "restatedev/restate",
-    "stargazers_count": 4523,
-    "open_issues_count": 455,
-    "forks_count": 214
+    "stargazers_count": 4532,
+    "open_issues_count": 458,
+    "forks_count": 216
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 36126,
-    "open_issues_count": 831,
-    "forks_count": 5455
+    "stargazers_count": 36162,
+    "open_issues_count": 827,
+    "forks_count": 5456
   },
   {
     "full_name": "i-godz/Data-Warehouse-Notes",
@@ -115,9 +139,9 @@
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 73282,
-    "open_issues_count": 574,
-    "forks_count": 9883
+    "stargazers_count": 73293,
+    "open_issues_count": 606,
+    "forks_count": 9880
   },
   {
     "full_name": "KL13NT/badeel",
@@ -127,9 +151,9 @@
   },
   {
     "full_name": "puckeditor/puck",
-    "stargazers_count": 13423,
-    "open_issues_count": 201,
-    "forks_count": 987
+    "stargazers_count": 13449,
+    "open_issues_count": 200,
+    "forks_count": 991
   },
   {
     "full_name": "Nafezly/payments",
@@ -141,7 +165,7 @@
     "full_name": "aosabook/500lines",
     "stargazers_count": 29578,
     "open_issues_count": 59,
-    "forks_count": 5796
+    "forks_count": 5795
   },
   {
     "full_name": "dragonked2/Egyscan",
@@ -154,29 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1916,
-    "open_issues_count": 322,
-    "forks_count": 626
-  },
-  {
-    "full_name": "anchetaWern/React-Native-Food-Delivery",
-    "stargazers_count": 279,
-    "open_issues_count": 8,
-    "forks_count": 177
-  },
-  {
-    "full_name": "nermeenwageh10/Leetcode-Solutions",
-    "stargazers_count": 373,
-    "open_issues_count": 6,
-    "forks_count": 91
-  },
-  {
-    "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 44009,
-    "open_issues_count": 11,
-    "forks_count": 5927
   }
 ]
