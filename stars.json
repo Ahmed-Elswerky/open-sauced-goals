@@ -1,69 +1,69 @@
 [
   {
     "full_name": "storytold/filmcraft",
-    "stargazers_count": 15787,
-    "open_issues_count": 1584,
-    "forks_count": 6629
+    "stargazers_count": 16446,
+    "open_issues_count": 1841,
+    "forks_count": 6865
   },
   {
     "full_name": "storytold/vectorcraft",
-    "stargazers_count": 10464,
-    "open_issues_count": 812,
-    "forks_count": 5119
+    "stargazers_count": 10781,
+    "open_issues_count": 920,
+    "forks_count": 5256
   },
   {
     "full_name": "storytold/effectcraft",
-    "stargazers_count": 7718,
-    "open_issues_count": 889,
-    "forks_count": 4136
+    "stargazers_count": 7982,
+    "open_issues_count": 1018,
+    "forks_count": 4264
   },
   {
     "full_name": "storytold/photocraft",
-    "stargazers_count": 71507,
-    "open_issues_count": 2739,
-    "forks_count": 12627
+    "stargazers_count": 73531,
+    "open_issues_count": 3304,
+    "forks_count": 13001
   },
   {
     "full_name": "futrx-com/remote.futrx",
-    "stargazers_count": 727,
-    "open_issues_count": 101,
+    "stargazers_count": 736,
+    "open_issues_count": 103,
     "forks_count": 95
   },
   {
     "full_name": "A-Hemeda/Remote-Jobs-List",
-    "stargazers_count": 737,
+    "stargazers_count": 740,
     "open_issues_count": 0,
     "forks_count": 43
   },
   {
     "full_name": "career-ops-hq/career-ops",
-    "stargazers_count": 76662,
-    "open_issues_count": 423,
-    "forks_count": 14197
+    "stargazers_count": 77694,
+    "open_issues_count": 410,
+    "forks_count": 14368
   },
   {
     "full_name": "ultraworkers/claw-code",
-    "stargazers_count": 195073,
+    "stargazers_count": 194979,
     "open_issues_count": 1,
-    "forks_count": 107819
+    "forks_count": 107706
   },
   {
     "full_name": "claude-code-best/claude-code",
-    "stargazers_count": 23006,
-    "open_issues_count": 47,
-    "forks_count": 16462
+    "stargazers_count": 23053,
+    "open_issues_count": 48,
+    "forks_count": 16456
   },
   {
     "full_name": "systemdesign42/system-design-academy",
-    "stargazers_count": 29447,
+    "stargazers_count": 29465,
     "open_issues_count": 0,
-    "forks_count": 3838
+    "forks_count": 3839
   },
   {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 98426,
+    "stargazers_count": 98658,
     "open_issues_count": 195,
-    "forks_count": 13608
+    "forks_count": 13626
   },
   {
     "full_name": "sam0uly/bubbleMonitor",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "voideditor/void",
-    "stargazers_count": 28737,
+    "stargazers_count": 28735,
     "open_issues_count": 304,
-    "forks_count": 2656
+    "forks_count": 2657
   },
   {
     "full_name": "wordware-ai/twitter",
-    "stargazers_count": 1449,
+    "stargazers_count": 1448,
     "open_issues_count": 10,
-    "forks_count": 227
-  },
-  {
-    "full_name": "restatedev/restate",
-    "stargazers_count": 4593,
-    "open_issues_count": 473,
     "forks_count": 226
   },
   {
+    "full_name": "restatedev/restate",
+    "stargazers_count": 4609,
+    "open_issues_count": 471,
+    "forks_count": 228
+  },
+  {
     "full_name": "continuedev/continue",
-    "stargazers_count": 36290,
-    "open_issues_count": 864,
-    "forks_count": 5509
+    "stargazers_count": 36341,
+    "open_issues_count": 872,
+    "forks_count": 5526
   },
   {
     "full_name": "i-godz/Data-Warehouse-Notes",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "anomalyco/demo-ai-app",
-    "stargazers_count": 736,
+    "stargazers_count": 735,
     "open_issues_count": 4,
     "forks_count": 49
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 73363,
-    "open_issues_count": 634,
-    "forks_count": 9896
+    "stargazers_count": 73387,
+    "open_issues_count": 668,
+    "forks_count": 9936
   },
   {
     "full_name": "KL13NT/badeel",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "puckeditor/puck",
-    "stargazers_count": 13510,
-    "open_issues_count": 194,
-    "forks_count": 1006
+    "stargazers_count": 13533,
+    "open_issues_count": 197,
+    "forks_count": 1011
   },
   {
     "full_name": "Nafezly/payments",
-    "stargazers_count": 492,
+    "stargazers_count": 493,
     "open_issues_count": 11,
-    "forks_count": 135
+    "forks_count": 136
   },
   {
     "full_name": "aosabook/500lines",
